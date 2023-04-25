@@ -45,6 +45,11 @@ namespace Math_ComparisonOperatorsAssignment
             Convert.ToString(salary2);
             Console.WriteLine("Annual salary of Person 2: " + salary2);
             Console.ReadLine();
+
+            Console.WriteLine("Does Person 1 make more money than Person 2?\n");
+            bool moreSalary = salary1 > salary2;
+            Console.WriteLine(moreSalary);
+            Console.ReadLine();
         }
     }
 }
