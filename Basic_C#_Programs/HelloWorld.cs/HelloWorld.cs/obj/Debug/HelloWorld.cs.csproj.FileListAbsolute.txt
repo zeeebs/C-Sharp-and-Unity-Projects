@@ -1,0 +1,7 @@
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\HelloWorld.cs\HelloWorld.cs\bin\Debug\HelloWorld.cs.exe.config
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\HelloWorld.cs\HelloWorld.cs\bin\Debug\HelloWorld.cs.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\HelloWorld.cs\HelloWorld.cs\bin\Debug\HelloWorld.cs.pdb
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\HelloWorld.cs\HelloWorld.cs\obj\Debug\HelloWorld.cs.csproj.AssemblyReference.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\HelloWorld.cs\HelloWorld.cs\obj\Debug\HelloWorld.cs.csproj.CoreCompileInputs.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\HelloWorld.cs\HelloWorld.cs\obj\Debug\HelloWorld.cs.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\HelloWorld.cs\HelloWorld.cs\obj\Debug\HelloWorld.cs.pdb
