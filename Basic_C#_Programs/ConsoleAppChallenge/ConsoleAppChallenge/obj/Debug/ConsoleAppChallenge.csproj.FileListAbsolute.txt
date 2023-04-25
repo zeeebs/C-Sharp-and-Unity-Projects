@@ -1,0 +1,7 @@
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppChallenge\ConsoleAppChallenge\bin\Debug\ConsoleAppChallenge.exe.config
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppChallenge\ConsoleAppChallenge\bin\Debug\ConsoleAppChallenge.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppChallenge\ConsoleAppChallenge\bin\Debug\ConsoleAppChallenge.pdb
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppChallenge\ConsoleAppChallenge\obj\Debug\ConsoleAppChallenge.csproj.AssemblyReference.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppChallenge\ConsoleAppChallenge\obj\Debug\ConsoleAppChallenge.csproj.CoreCompileInputs.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppChallenge\ConsoleAppChallenge\obj\Debug\ConsoleAppChallenge.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppChallenge\ConsoleAppChallenge\obj\Debug\ConsoleAppChallenge.pdb

@@ -1,0 +1,7 @@
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Math+ComparisonOperatorsAssignment\Math+ComparisonOperatorsAssignment\bin\Debug\Math+ComparisonOperatorsAssignment.exe.config
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Math+ComparisonOperatorsAssignment\Math+ComparisonOperatorsAssignment\bin\Debug\Math+ComparisonOperatorsAssignment.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Math+ComparisonOperatorsAssignment\Math+ComparisonOperatorsAssignment\bin\Debug\Math+ComparisonOperatorsAssignment.pdb
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Math+ComparisonOperatorsAssignment\Math+ComparisonOperatorsAssignment\obj\Debug\Math+ComparisonOperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Math+ComparisonOperatorsAssignment\Math+ComparisonOperatorsAssignment\obj\Debug\Math+ComparisonOperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Math+ComparisonOperatorsAssignment\Math+ComparisonOperatorsAssignment\obj\Debug\Math+ComparisonOperatorsAssignment.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Math+ComparisonOperatorsAssignment\Math+ComparisonOperatorsAssignment\obj\Debug\Math+ComparisonOperatorsAssignment.pdb
