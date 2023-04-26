@@ -15,7 +15,7 @@ namespace BooleanLogicAssignment
 
             Console.WriteLine("\n");
 
-            Console.WriteLine("Have you ever had a DUI? Please type \"yes\" or \"no\"\n");
+            Console.WriteLine("Have you ever had a DUI?\n");
             string dui = Console.ReadLine();
 
             Console.WriteLine("\n");
@@ -26,10 +26,11 @@ namespace BooleanLogicAssignment
             Console.WriteLine("\n");
 
             int yourAge = Convert.ToInt32(age);
+            bool DUI = Convert.ToBoolean(dui);
             int speedingTickets = Convert.ToInt32(ticket);
            
             Console.WriteLine("Qualified?\n");
-            bool qualified = (yourAge > 15 && dui == "no" && speedingTickets < 4);
+            bool qualified = (yourAge > 15 && DUI==false && speedingTickets < 4);
             Console.WriteLine(qualified);
             Console.ReadLine();
 

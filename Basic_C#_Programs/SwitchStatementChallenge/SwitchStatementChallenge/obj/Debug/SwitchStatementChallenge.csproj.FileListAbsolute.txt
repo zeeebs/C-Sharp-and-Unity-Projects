@@ -1,0 +1,7 @@
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\bin\Debug\SwitchStatementChallenge.exe.config
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\bin\Debug\SwitchStatementChallenge.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\bin\Debug\SwitchStatementChallenge.pdb
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\obj\Debug\SwitchStatementChallenge.csproj.AssemblyReference.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\obj\Debug\SwitchStatementChallenge.csproj.CoreCompileInputs.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\obj\Debug\SwitchStatementChallenge.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\SwitchStatementChallenge\SwitchStatementChallenge\obj\Debug\SwitchStatementChallenge.pdb
