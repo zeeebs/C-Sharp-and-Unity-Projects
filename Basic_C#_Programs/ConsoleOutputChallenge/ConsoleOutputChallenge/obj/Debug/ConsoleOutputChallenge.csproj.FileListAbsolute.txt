@@ -1,0 +1,6 @@
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.exe.config
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\bin\Debug\ConsoleOutputChallenge.pdb
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.csproj.CoreCompileInputs.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleOutputChallenge\ConsoleOutputChallenge\obj\Debug\ConsoleOutputChallenge.pdb
