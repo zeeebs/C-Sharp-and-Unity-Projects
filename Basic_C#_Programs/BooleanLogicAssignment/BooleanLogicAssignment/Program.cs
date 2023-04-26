@@ -33,9 +33,6 @@ namespace BooleanLogicAssignment
             bool qualified = (yourAge > 15 && DUI==false && speedingTickets < 4);
             Console.WriteLine(qualified);
             Console.ReadLine();
-
-
-
         }
         
     }

@@ -1,0 +1,7 @@
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Loops\Loops\obj\Debug\Loops.pdb
