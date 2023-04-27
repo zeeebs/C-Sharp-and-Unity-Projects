@@ -1,0 +1,7 @@
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringFUnctions\StringFUnctions\bin\Debug\StringFUnctions.exe.config
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringFUnctions\StringFUnctions\bin\Debug\StringFUnctions.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringFUnctions\StringFUnctions\bin\Debug\StringFUnctions.pdb
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringFUnctions\StringFUnctions\obj\Debug\StringFUnctions.csproj.AssemblyReference.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringFUnctions\StringFUnctions\obj\Debug\StringFUnctions.csproj.CoreCompileInputs.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringFUnctions\StringFUnctions\obj\Debug\StringFUnctions.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\StringFUnctions\StringFUnctions\obj\Debug\StringFUnctions.pdb
