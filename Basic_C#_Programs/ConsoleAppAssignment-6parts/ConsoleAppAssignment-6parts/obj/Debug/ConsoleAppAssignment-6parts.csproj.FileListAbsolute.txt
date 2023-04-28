@@ -1,0 +1,7 @@
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppAssignment-6parts\ConsoleAppAssignment-6parts\obj\Debug\ConsoleAppAssignment-6parts.csproj.AssemblyReference.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppAssignment-6parts\ConsoleAppAssignment-6parts\obj\Debug\ConsoleAppAssignment-6parts.csproj.CoreCompileInputs.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppAssignment-6parts\ConsoleAppAssignment-6parts\bin\Debug\ConsoleAppAssignment-6parts.exe.config
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppAssignment-6parts\ConsoleAppAssignment-6parts\bin\Debug\ConsoleAppAssignment-6parts.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppAssignment-6parts\ConsoleAppAssignment-6parts\bin\Debug\ConsoleAppAssignment-6parts.pdb
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppAssignment-6parts\ConsoleAppAssignment-6parts\obj\Debug\ConsoleAppAssignment-6parts.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ConsoleAppAssignment-6parts\ConsoleAppAssignment-6parts\obj\Debug\ConsoleAppAssignment-6parts.pdb

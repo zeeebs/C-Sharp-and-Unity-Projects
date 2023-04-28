@@ -8,6 +8,14 @@ class Program
         List<int> intList = new List<int>();
         intList.Add(4);
         intList.Add(10);
+        intList.Remove(10);
+
+        List<string> stringList = new List<string>();
+        stringList.Add("hello");
+        stringList.Add("zella");
+        stringList.Remove("zella");
+
+        byte[] byteArray = new byte[5000]; //arrays can be used for pics in binary form
 
         //int[] numArray = new int[5]; //5 =  specifying length of array
         //numArray[0] = 5;
