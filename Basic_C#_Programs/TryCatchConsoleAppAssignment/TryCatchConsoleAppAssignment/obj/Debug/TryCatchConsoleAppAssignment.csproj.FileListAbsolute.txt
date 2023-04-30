@@ -1,0 +1,7 @@
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatchConsoleAppAssignment\TryCatchConsoleAppAssignment\bin\Debug\TryCatchConsoleAppAssignment.exe.config
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatchConsoleAppAssignment\TryCatchConsoleAppAssignment\bin\Debug\TryCatchConsoleAppAssignment.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatchConsoleAppAssignment\TryCatchConsoleAppAssignment\bin\Debug\TryCatchConsoleAppAssignment.pdb
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatchConsoleAppAssignment\TryCatchConsoleAppAssignment\obj\Debug\TryCatchConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatchConsoleAppAssignment\TryCatchConsoleAppAssignment\obj\Debug\TryCatchConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatchConsoleAppAssignment\TryCatchConsoleAppAssignment\obj\Debug\TryCatchConsoleAppAssignment.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\TryCatchConsoleAppAssignment\TryCatchConsoleAppAssignment\obj\Debug\TryCatchConsoleAppAssignment.pdb

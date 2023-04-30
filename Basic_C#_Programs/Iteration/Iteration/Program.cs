@@ -46,11 +46,21 @@ class Program
 
         //foreach (string name in names)
         //{
+        //    if (name == "ripper")
+        //    {
+        //        Console.WriteLine("Passing test score:" + score);
+        //    }
+        //}
+        //Console.ReadLine();
+
+
+        //foreach (string name in names)
+        //{
         //    Console.WriteLine(name);
         //}
         //Console.ReadLine();
 
-        List<int> testScores = new List<int>() { 98,99,12,74,23,99 };
+        List<int> testScores = new List<int>() { 98, 99, 12, 74, 23, 99 };
         List<int> passingScores = new List<int>();
 
         foreach (int score in testScores)
