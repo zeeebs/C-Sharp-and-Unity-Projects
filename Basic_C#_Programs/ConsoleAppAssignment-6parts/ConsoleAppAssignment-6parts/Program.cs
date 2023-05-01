@@ -8,10 +8,9 @@ class Program
         //PART 1
         string[] fruits = new string[] { "apple\n", "banana\n", "grapes\n" };
         Console.WriteLine("Please add fruits to the array.");
-
+        string fruitsAdd = Console.ReadLine();
         for (int i = 0; i < fruits.Length; i++)
         {
-            string fruitsAdd = Console.ReadLine();
             fruits[i] += fruitsAdd;
         }
         Console.WriteLine("\n");
