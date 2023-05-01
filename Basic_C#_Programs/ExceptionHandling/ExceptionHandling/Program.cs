@@ -24,6 +24,14 @@ class Program
         {
             Console.WriteLine("Please don't divide by zero");
         }
-        Console.ReadLine();
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+        finally
+        {
+            Console.ReadLine();
+        }
+        
     }
 }
