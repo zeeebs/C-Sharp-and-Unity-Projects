@@ -10,9 +10,7 @@ namespace methodAssignment
     {
         public int twoInput(int value1, int value2 = 0)
         {
-            return value1 * 2;
-            Console.ReadLine();
-            return value2 * 2;
+            return value1 * value2;
             Console.ReadLine();
         }
     }

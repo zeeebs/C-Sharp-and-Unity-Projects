@@ -13,19 +13,20 @@ namespace methodAssignment
             twoInt twoInput = new twoInt();
             int value1, value2;
 
-            Console.WriteLine("Pick a number:");
-            if (int.TryParse(Console.ReadLine(), out value1))
+            try
             {
-                Console.WriteLine(value1 + " x 2 = " + twoInput.twoInput(value1));
+                Console.WriteLine("Pick a number:");
+                value1 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("(Optional) Pick another number:");
+                value2 = Convert.ToInt32(Console.ReadLine());
+                int result = value1 * value2;
+                Console.WriteLine(value1 + " x " + value2 + " = " + result);
             }
-
-            Console.WriteLine("(Optional) Pick another number:");
-            if (int.TryParse(Console.ReadLine(), out value2))
+            catch
             {
-                Console.WriteLine(value2 + " x 2 = " + twoInput.twoInput(value2));
-            }
-            else
-            {
+                Console.WriteLine("Pick a number:");
+                value1 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(value1 + " x 0 = " + twoInput.twoInput(value1));
                 Console.WriteLine("a second number was not entered");
             }
             Console.ReadLine();
