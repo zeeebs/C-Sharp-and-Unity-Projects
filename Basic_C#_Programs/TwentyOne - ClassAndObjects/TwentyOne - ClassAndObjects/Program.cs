@@ -20,7 +20,7 @@ namespace TwentyOne___ClassAndObjects
                 Console.WriteLine(card.face + " of " + card.suit);
             }
             Console.WriteLine(deck.cards.Count);
-            Console.WriteLine("Times shuffled {0}", timesShuffled);
+            Console.WriteLine("Times shuffled: {0}", timesShuffled);
             Console.ReadLine();
         }
 
