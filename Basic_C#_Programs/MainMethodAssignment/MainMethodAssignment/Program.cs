@@ -27,8 +27,9 @@ namespace MainMethodAssignment
 
             Console.WriteLine("Please enter a number");
             string userString = Console.ReadLine();
+            int userInt = Convert.ToInt32(userString);
 
-            Console.WriteLine(userString + " divided by 2 equals " + Convert.ToInt32(mainMethod.mathOp(userString)));
+            Console.WriteLine(userString + " divided by 2 equals " + mainMethod.mathOp(userInt));
             Console.ReadLine();
         }
     }

@@ -8,8 +8,16 @@ namespace MethodClassAssignment
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            Console.WriteLine("Please enter a number");
+            int value1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Pick another number:");
+            int value2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine(value2);
+            Console.ReadLine();
         }
+        
     }
 }

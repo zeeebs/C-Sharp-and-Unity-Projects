@@ -8,5 +8,10 @@ namespace MethodClassAssignment
 {
     class methodClass
     {
+        public void voidMethod(int value1, int value2)
+        {
+            value1 = value1 + 5;
+            Console.WriteLine(value2);
+        }
     }
 }

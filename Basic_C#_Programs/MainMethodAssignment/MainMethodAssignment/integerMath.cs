@@ -14,14 +14,13 @@ namespace MainMethodAssignment
         }
         public decimal mathOp(decimal value)
         {
-            return value - 1;
+            return Convert.ToInt32(value - 1);
         }
-        public string mathOp(string value)
+        public int mathOp(string value)
         {
             int intValue = Convert.ToInt32(value);
             intValue = intValue / 2;
-            string stringValue = Convert.ToString(intValue);
-            return stringValue;
+            return intValue;
         }
     }
 }

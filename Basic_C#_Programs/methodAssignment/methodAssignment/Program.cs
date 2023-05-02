@@ -11,16 +11,6 @@ namespace methodAssignment
         public static void Main(string[] args)
         {
             twoInt twoInput = new twoInt();
-
-            //Console.WriteLine("Please insert one number, you may insert a second number after if you would like.");
-            //int value1 = Convert.ToInt32(Console.ReadLine());
-            //int value2 = Convert.ToInt32(Console.ReadLine());
-
-            //Console.WriteLine(value1 + " x 2 = " + twoInput.twoInput(value1));
-            //Console.ReadLine();
-            //Console.WriteLine(Convert.ToInt32(value2) + " x 2 = " + twoInput.twoInput(Convert.ToInt32(value2)));
-            //Console.ReadLine();
-
             int value1, value2;
 
             Console.WriteLine("Pick a number:");
