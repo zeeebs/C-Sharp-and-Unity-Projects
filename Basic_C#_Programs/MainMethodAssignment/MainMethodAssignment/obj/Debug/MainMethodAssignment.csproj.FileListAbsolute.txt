@@ -1,0 +1,7 @@
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb
