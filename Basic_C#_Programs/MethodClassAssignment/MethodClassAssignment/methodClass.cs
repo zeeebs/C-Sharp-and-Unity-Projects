@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace MethodClassAssignment
 {
-    class methodClass
+    public class methodClass
     {
-        public void voidMethod(int value1, int value2)
+       public static void twoInput(int value1, int value2)
         {
-            value1 = value1 + 5;
+            int sum = value1 + 1;
             Console.WriteLine(value2);
         }
     }
