@@ -11,7 +11,7 @@ namespace TwentyOne___ClassAndObjects
         static void Main(string[] args)
         {
             deck deck = new deck(); //variable deck is assigned to class deck
-            deck.shuffle(3); //making parameters named parameter to make it more readable
+            deck.shuffle(3); //making parameters
 
             foreach (card card in deck.cards)
             {
@@ -19,9 +19,16 @@ namespace TwentyOne___ClassAndObjects
             }
             Console.WriteLine(deck.cards.Count);
             Console.ReadLine();
+
+            //inheritance example
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "zella", "gabe", "vlad" };
+            //game.ListPlayers();
+            //game.Play();
+            //Console.ReadLine();
         }
 
-        
+
 
         //public static deck shuffle(deck deck, int times) //overload, but adds a lot of code, so can we just add the times part to the original function
         //{
