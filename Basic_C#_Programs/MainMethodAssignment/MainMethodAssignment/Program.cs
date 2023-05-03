@@ -20,8 +20,7 @@ namespace MainMethodAssignment
             Console.ReadLine();
 
             Console.WriteLine("Please enter a decimal");
-            string userDecimal = Console.ReadLine();
-            decimal userDec = (decimal)Convert.ToDouble(userDecimal);
+            decimal userDec = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine(userDec + " minus 1 equals " + mainMethod.mathOp(userDec));
             Console.ReadLine();
 
