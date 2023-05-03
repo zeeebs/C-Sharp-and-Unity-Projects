@@ -13,12 +13,7 @@ namespace MethodClassAssignment
             methodClass voidMethod = new methodClass();
             int value1, value2;
 
-            Console.WriteLine("Pick a number:");
-            value1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Pick another number:");
-            value2 = Convert.ToInt32(Console.ReadLine());
-
-            methodClass.twoInput(value1, value2);
+            methodClass.twoInput(value1:5, value2:15);
             Console.ReadLine();
         }
         

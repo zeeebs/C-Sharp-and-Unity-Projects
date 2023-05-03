@@ -33,5 +33,21 @@ namespace TwentyOne___ClassAndObjects
 
         }
         public List<card> cards { get; set; }
+
+        public void shuffle(int times = 1) //add int times=1 to add feature to choose how many times it shuffles, optional parameter //out int timesShuffled verify the deck was shuffled a certain amount of times throwing the amount back to an already defined variable (timesShuffled)
+        {
+            for (int i = 0; i < times; i++) //adding method overload to original method
+            {
+                List<card> tempList = new List<card>(); //VIDEO ON PAGE 213
+                Random random = new Random();
+                while (cards.Count > 0) //grab a random card, take it out of the deck and put it into the temp deck until deck.cards.count is at 0
+                {
+                    int randomIndex = random.Next(0, cards.Count); //takes min and max value
+                    tempList.Add(cards[randomIndex]); //adding random card grabbed to temp list
+                    cards.RemoveAt(randomIndex); //removed from list of cards
+                }
+                cards = tempList; //assigned new temp deck to existing deck as value
+            }
+        }
     }
 }
