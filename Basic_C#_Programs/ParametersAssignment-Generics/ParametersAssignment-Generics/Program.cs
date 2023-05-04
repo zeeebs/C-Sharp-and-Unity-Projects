@@ -11,16 +11,16 @@ namespace ParametersAssignment_Generics
         public static void Main(string[] args)
         {
             Employee<string> stringList = new Employee<string>();
-            List<string> StringList = new List<string>() { "red", "blue", "yellow", "black", "white" };
+            stringList.Things = new List<string>() { "red", "blue", "yellow", "black", "white" };
 
 
             Employee<int> intList = new Employee<int>();
-            List<int> IntList = new List<int>() { 5, 10, 15, 20, 25 };
+            intList.Things = new List<int>() { 5, 10, 15, 20, 25 };
 
-            for (int i = 0; i < StringList.Count; i++)
+            for (int i = 0; i < stringList.Things.Count; i++)
             {
-                Console.WriteLine(StringList[i]);
-                Console.WriteLine(IntList[i]);
+                Console.WriteLine(stringList.Things[i]);
+                Console.WriteLine(intList.Things[i]);
             }
             Console.ReadLine();
         }
