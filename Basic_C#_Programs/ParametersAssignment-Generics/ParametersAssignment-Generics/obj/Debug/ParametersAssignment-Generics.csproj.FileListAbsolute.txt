@@ -1,0 +1,7 @@
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParametersAssignment-Generics\ParametersAssignment-Generics\bin\Debug\ParametersAssignment-Generics.exe.config
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParametersAssignment-Generics\ParametersAssignment-Generics\bin\Debug\ParametersAssignment-Generics.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParametersAssignment-Generics\ParametersAssignment-Generics\bin\Debug\ParametersAssignment-Generics.pdb
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParametersAssignment-Generics\ParametersAssignment-Generics\obj\Debug\ParametersAssignment-Generics.csproj.AssemblyReference.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParametersAssignment-Generics\ParametersAssignment-Generics\obj\Debug\ParametersAssignment-Generics.csproj.CoreCompileInputs.cache
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParametersAssignment-Generics\ParametersAssignment-Generics\obj\Debug\ParametersAssignment-Generics.exe
+C:\Users\zella\Desktop\Tech Academy\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ParametersAssignment-Generics\ParametersAssignment-Generics\obj\Debug\ParametersAssignment-Generics.pdb
