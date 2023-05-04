@@ -10,6 +10,13 @@ namespace TwentyOne___ClassAndObjects
     {
         static void Main(string[] args)
         {
+            game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "zella";
+            game = game + player; //basically our method for this
+            game = game - player;
+
             deck deck = new deck(); //variable deck is assigned to class deck
             deck.shuffle(3); //making parameters
 
@@ -26,6 +33,12 @@ namespace TwentyOne___ClassAndObjects
             //game.ListPlayers();
             //game.Play();
             //Console.ReadLine();
+
+            //polymorphism
+            //List<game> games = new List<game>();
+            //game game = new TwentyOneGame();
+            //games.Add(game);
+            //you can make a list of object you wouldn't be able to do without polymorphism because a list would only hold one
         }
 
 

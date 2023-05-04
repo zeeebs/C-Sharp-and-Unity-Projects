@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne___ClassAndObjects
+namespace OperatorsAssignment
 {
-    interface IWalkAway
+    class Class1
     {
-        void WalkAway(Player player);
     }
 }

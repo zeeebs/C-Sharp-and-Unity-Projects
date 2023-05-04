@@ -6,15 +6,18 @@ using System.Threading.Tasks;
 
 namespace TwentyOne___ClassAndObjects
 {
-    public class game
+    public abstract class game
     {
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers()
+
+        public abstract void Play();
+        public virtual void ListPlayers() //virtual method inside an abstract class means that this method gets inherited by an inheriting class but it has the ability to override it
+            //have implementation but can be overridden
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
                 Console.WriteLine(player);
             }
