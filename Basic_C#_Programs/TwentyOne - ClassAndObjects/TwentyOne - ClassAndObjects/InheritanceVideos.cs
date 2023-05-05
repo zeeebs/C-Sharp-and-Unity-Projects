@@ -15,7 +15,7 @@ namespace TwentyOne___ClassAndObjects
         //easier way
 
         //initialization
-        card card = new card() { face = "King", suit = "spades" };
+        //Card card = new Card() { Face = "King", Suit = "spades" };
 
     }
 }

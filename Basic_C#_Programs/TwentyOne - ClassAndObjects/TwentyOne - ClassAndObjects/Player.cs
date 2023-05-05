@@ -8,7 +8,7 @@ namespace TwentyOne___ClassAndObjects
 {
     public class Player
     {
-        public List<card> Hand { get; set; }
+        public List<Card> Hand { get; set; }
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
@@ -26,3 +26,5 @@ namespace TwentyOne___ClassAndObjects
         }
     }
 }
+
+//Generics video pg 254
