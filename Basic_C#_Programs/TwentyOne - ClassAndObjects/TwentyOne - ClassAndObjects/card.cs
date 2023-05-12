@@ -9,9 +9,13 @@ namespace TwentyOne___ClassAndObjects
     public class Card //a class is just a model/design for the object, need to create instances of the class
         //examples: class=cookie cutter, object=the cookie; class=recipe, object=actual meal cooked with the recipe
     {
-       
-        public Suit Suit { get; set; } //creating property suit, can only get and set that property for class card, pubic makes it accessible to other parts of the program
+       public Suit Suit { get; set; } //creating property suit, can only get and set that property for class card, pubic makes it accessible to other parts of the program
         public Face Face { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
     }
     public enum Suit 
     {
